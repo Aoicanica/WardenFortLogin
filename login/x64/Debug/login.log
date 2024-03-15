@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\login\login\login\main.cpp(2,10): error C1083: Cannot open include file: 'QSqlDatabase': No such file or directory
